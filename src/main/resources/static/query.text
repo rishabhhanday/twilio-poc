@@ -1,0 +1,26 @@
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('1H',1,'Hearts',1,'Face');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('2H',2,'Hearts',2,'Number');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('3H',3,'Hearts',3,'Number');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('4H',4,'Hearts',4,'Number');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('5H',5,'Hearts',5,'Number');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('6H',6,'Hearts',6,'Number');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('7H',7,'Hearts',7,'Number');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('8H',8,'Hearts',8,'Number');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('9H',9,'Hearts',9,'Number');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('10H',10,'Hearts',10,'Number');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('JH',11,'Hearts',11,'Face');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('QH',12,'Hearts',12,'Face');
+insert into standard_deck(id, card_position, card_suit, card_rank, card_type)
+values('KH',13,'Hearts',13,'Face');
